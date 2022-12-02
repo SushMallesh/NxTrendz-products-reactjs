@@ -1,0 +1,35 @@
+.similar-item-container {
+  list-style-type: none;
+  width: 35%;
+}
+.product-item-image {
+  width: 250px;
+  border-radius: 10px;
+}
+.product-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #1e293b;
+}
+.product-brand {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #616e7c;
+}
+.price-rating-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 84%;
+}
+.product-rating-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3b82f6;
+  border-radius: 5px;
+  color: #ffffff;
+  width: 60px;
+  height: 30px;
+  font-size: 18px;
+}
